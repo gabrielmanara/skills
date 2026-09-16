@@ -1,0 +1,18 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "gabrielmanara",
+  "description": "Gabriel Manara's Claude Code skills.",
+  "owner": {
+    "name": "Gabriel Manara",
+    "url": "https://github.com/gabrielmanara"
+  },
+  "plugins": [
+    {
+      "name": "mate",
+      "source": "./plugins/mate",
+      "description": "Routing doctrine for the architect-as-orchestrator pattern: a Fable session owns architecture and verification, and delegates everything else to the cheapest adequate lane across two vendors, then has every deliverable reviewed by a vendor that did not write it.",
+      "category": "Developer Tools",
+      "tags": ["orchestration", "delegation", "subagents", "code-review", "cost"]
+    }
+  ]
+}

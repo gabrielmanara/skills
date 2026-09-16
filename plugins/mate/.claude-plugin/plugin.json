@@ -1,0 +1,12 @@
+{
+  "name": "mate",
+  "version": "0.1.0",
+  "description": "Routing doctrine for the architect-as-orchestrator pattern. Owns architecture, specs, routing and verification; delegates the rest to the cheapest adequate lane across Anthropic and OpenAI models, and gets every deliverable reviewed by a different vendor than the one that wrote it.",
+  "author": {
+    "name": "Gabriel Manara",
+    "url": "https://github.com/gabrielmanara"
+  },
+  "homepage": "https://github.com/gabrielmanara/skills",
+  "repository": "https://github.com/gabrielmanara/skills",
+  "keywords": ["orchestration", "delegation", "subagents", "codex", "code-review"]
+}
